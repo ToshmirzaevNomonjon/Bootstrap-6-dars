@@ -1,0 +1,66 @@
+.first{
+    background-image: url("../rasmla/rasm.jfif");
+    width: 253px;
+    height: 200px;
+}
+.second{
+    background-image: url("../rasmla/rasm1.jfif");
+    width: 253px;
+    height: 200px;
+}
+.third{
+    background-image: url("../rasmla/rasm2.jfif");
+    width: 253px;
+    height: 203px;
+}
+.spans{
+    margin-top: -20px;
+}
+.fourth{
+   position: relative;
+    background: linear-gradient(70deg,white);
+    box-shadow: 0 0 100px black inset;
+
+}
+.fifth{
+    background-image: url("../rasmla/rasm4.jfif");
+    width: 253px;
+    height: 200px;
+}
+.sixth{
+    background-image: url("../rasmla/rasm5.jfif");
+    width: 253px;
+    height: 200px;
+    position: relative;
+
+}
+.seventh{
+    background-image: url("../rasmla/rasm6.jfif");
+    width: 253px;
+    height: 200px;
+}
+.eighth{
+    background-image: url("../rasmla/rasm7.jfif");
+    width: 253px;
+    height: 200px;
+}
+.spans1{
+    margin-top: -5px;
+}
+.xx{
+    font-size: 20px;
+}
+.sz{
+    position: relative;
+    top: 15px;
+}
+.js{
+    position: relative;
+    left: 55px;
+    bottom: 10px;
+    margin-top: 50px;
+}
+.sp{
+    position: relative;
+    bottom: 150px !important;
+}
